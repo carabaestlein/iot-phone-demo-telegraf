@@ -286,7 +286,7 @@ topics:
     configuration:
       partitions: 2
       replicationFactor: 2
-      retentionInMinutes: -1
+      retentionInMinutes: 10080
       retentionInBytes: 52428800
   - name: sensor-data
     configuration:
